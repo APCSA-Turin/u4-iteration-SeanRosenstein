@@ -1,4 +1,3 @@
-import java.util.Scanner;
 public class WhileLoopRunner {
     public static void main(String[] args) {
         WhileLoopFun fun = new WhileLoopFun();
